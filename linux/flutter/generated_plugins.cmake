@@ -3,6 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  window_to_front
   url_launcher_linux
 )
 

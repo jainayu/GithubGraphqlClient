@@ -20,6 +20,8 @@ dependencies:
   gql_exec: ^0.2.4
   gql_link: ^0.3.0
   gql_http_link: ^0.2.9
+  window_to_front:
+    path: '../window_to_front'
 
 dev_dependencies:
   flutter_test:
